@@ -2,6 +2,7 @@
 
 I decided to organize most of my conference talks and host them here rather than having to find them in different places whenever I want to submit one!
 
+
 * [Learning CSS Through Creating Art](./css-art.md)
 * [Facial Recognition in JavaScript](./facial-recognition.md)
 * [Web Development for Data Science](./web-dev-for-datasci.md)
