@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Augmented Reality is becoming more prevalent in applications. It has both artistic and business applications. This presentation will discuss creating a simple web-ready AR app using JavaScript. 
+Augmented reality is becoming more popular for both its artistic and business applications. This talk will explore the frameworks and tools that make AR more developer friendly, including adding live masks to a webcam image in 47 lines of JavaScript!
 
 ## Talk Description
 
@@ -12,15 +12,14 @@ In this talk, I will take attendees through the development process with trackin
 
 ### Objectives
 
-* Discuss the evolving focus on AR and how developers can use it on the web.
-* Examine different facial recognition libraries in JavaScript.
-* Discuss the technologies behind facial recognition in JavaScript.
-* Look at an implementation of a facial recognition application in JavaScript.
-
-### Why This Presentation
+* Discuss the evolving focus on AR and how developers can use it on the web
+* Examine different augmented reality web frameworks
+* Discuss the technologies behind facial recognition and other augmented reality tools/
+* Look at an implementation of a facial recognition application in JavaScript### Why This Presentation
 
 ## Presentation
 
 * [Article](https://dev.to/aspittel/facial-recognition-in-javascript-using-trackingjs-3l7)
+* [App](https://www.alispit.tel/tracking/)
 
 ## Delivered At
