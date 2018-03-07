@@ -1,4 +1,4 @@
-# Facial Recognition in JavaScript
+# Web Ready Augmented Reality in 47 Lines of Code
 
 ## Abstract
 
