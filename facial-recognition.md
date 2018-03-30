@@ -23,3 +23,6 @@ In this talk, I will take attendees through the development process with trackin
 * [App](https://www.alispit.tel/tracking/)
 
 ## Delivered At
+
+* Indy.codes()
+* NoVa CodeCamp
