@@ -32,3 +32,7 @@ The workshop will extend [my article](https://dev.to/aspittel/learning-css-throu
 * [Article](https://dev.to/aspittel/learning-css-through-creating-art-9i7)
 
 ## Delivered At: 
+
+* Dev.to workshop
+* Pivotal Labs Lunch and Learn
+* Indy.codes()
