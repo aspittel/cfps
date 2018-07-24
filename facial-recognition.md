@@ -15,7 +15,7 @@ In this talk, I will take attendees through the development process with trackin
 * Discuss the evolving focus on AR and how developers can use it on the web
 * Examine different augmented reality web frameworks
 * Discuss the technologies behind facial recognition and other augmented reality tools/
-* Look at an implementation of a facial recognition application in JavaScript### Why This Presentation
+* Look at an implementation of a facial recognition application in JavaScript
 
 ## Presentation
 
