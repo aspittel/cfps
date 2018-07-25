@@ -17,12 +17,25 @@ In this talk, I will take attendees through the development process with trackin
 * Discuss the technologies behind facial recognition and other augmented reality tools/
 * Look at an implementation of a facial recognition application in JavaScript
 
+### Timing
+
+* 3 minute intro 
+* 15 minutes demo
+* 10 minutes discussion of what AR is
+* 15 minutes walking through code
+* Remaining time on where to learn more + Q&A
+
 ## Presentation
 
 * [Article](https://dev.to/aspittel/facial-recognition-in-javascript-using-trackingjs-3l7)
 * [App](https://www.alispit.tel/tracking/)
+* [Slides](https://www.alispit.tel/ar-javascript/#/intro)
 
 ## Delivered At
 
 * Indy.codes()
 * NoVa CodeCamp
+* Mid-Atlantic Developer Conference
+* CharmCity JS (15 mins)
+* DC Hack && Tell (5 mins)
+* Lecture @ General Assembly
