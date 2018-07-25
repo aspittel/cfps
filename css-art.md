@@ -38,7 +38,7 @@ The full day version of this talk also discusses CSS Grid, FlexBox, SCSS, and CS
 * [Hour Long Presentation](https://www.alispit.tel/css-art-presentation/#/intro)
 * [Full Day Presentation](https://www.alispit.tel/css-art-fullday-presentation/#/intro)
 
-## Delivered At: 
+## Delivered At
 
 * [Dev.to workshop](https://dev.to/aspittel/learning-css-through-creating-art-54c0) x2
 * Pivotal Labs Lunch and Learn
