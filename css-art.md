@@ -1,7 +1,7 @@
 # Learning CSS Through Creating Art
 
 ## Abstract
-Code can appeal to many people because it combines creativity and logic. CSS marries these skills. Developers can create artwork using CSS, and at the same time they can strengthen their CSS skills for creating standard web pages.
+CSS is a used on almost every website to style webpages. You can also build art with it! This talk will strengthen attendees' CSS skills through building art projects with CSS. 
 
 ## Talk Description
 
@@ -27,12 +27,20 @@ I hear all the time from developers that their least favorite tool they work wit
 
 The workshop will extend [my article](https://dev.to/aspittel/learning-css-through-creating-art-9i7) on this topic!
 
+
+### Full Day Version
+
+The full day version of this talk also discusses CSS Grid, FlexBox, SCSS, and CSS animations. Attendees will also build multiple projects that they can put on their own sites!
+
 ## Presentation
 
 * [Article](https://dev.to/aspittel/learning-css-through-creating-art-9i7)
+* [Hour Long Presentation](https://www.alispit.tel/css-art-presentation/#/intro)
+* [Full Day Presentation](https://www.alispit.tel/css-art-fullday-presentation/#/intro)
 
 ## Delivered At: 
 
-* Dev.to workshop
+* [Dev.to workshop](https://dev.to/aspittel/learning-css-through-creating-art-54c0) x2
 * Pivotal Labs Lunch and Learn
 * Indy.codes()
+* Art + Code Collective
