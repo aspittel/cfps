@@ -2,5 +2,4 @@ Ali teaches people how to code at General Assembly. Before that, she was a softw
 
 When Ali's not working, you can find her watching New England sports, competing on CodeWars, taking runs around Capitol Hill, rock climbing, or participating in DC coding community events.
 
-Ali's current personal project is a blog called "On Learning New Things" where she learns one new coding skill a week, builds an app with it, and then writes an article on it.
-
+Ali's current personal project is a blog called "The Zen of Programming" where she learns talks about code and her life surrounding it.
