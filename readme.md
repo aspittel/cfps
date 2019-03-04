@@ -6,6 +6,8 @@ I decided to organize most of my conference talks and host them here rather than
 * [Facial Recognition in JavaScript](./facial-recognition.md)
 * [Web Development for Data Science](./web-dev-for-datasci.md)
 * [Programming 001](./programming-001.md)
+* [Writing Workshop: Blogging to Grow Your Open Source Project](https://github.com/aspittel/cfps/blob/master/writing-workshop-OSS.md)
+
 ## Not currently submitting, but could be delivered
 * [Intro to Frameworks](./intro-frameworks.md)
 * [Web Ready Data Visualizations in Python with Bokeh](https://github.com/aspittel/ga-bokeh-lecture)
