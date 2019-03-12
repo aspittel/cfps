@@ -1,3 +1,5 @@
-Ali is a programmer, teacher, and writer. She works at [DEV](https://dev.to) as a software engineer. You can read her writing, which had well over half a million readers last year, at [dev.to/aspittel](https://dev.to/aspittel). She moonlights as a lead instructor at General Assembly.
+Ali is a software engineer at DEV. Before that, she was a lead instructor at General Assembly. She loves Python, JavaScript, and talking about code. She is most interested in the intersection of programming, art, and education.
 
-In addition to contributing to the open source DEV platform at work, Ali also maintains [Learn Code from Us](https://learncodefrom.us/), a platform that highlights technical content creators who are members of underrepresented groups in tech.
+When Ali's not working, you can find her watching New England sports, competing on CodeWars, taking runs around Capitol Hill, rock climbing, or participating in DC coding community events.
+
+Ali also blogs at dev.to/aspittel where she learns talks about code and her life surrounding it. Her writing has gotten roughly 600,000 readers in the past year.
