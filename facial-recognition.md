@@ -36,6 +36,6 @@ In this talk, I will take attendees through the development process with trackin
 * Indy.codes()
 * NoVa CodeCamp
 * Mid-Atlantic Developer Conference
+* NOVA JavaScript Meetup
 * CharmCity JS (15 mins)
 * DC Hack && Tell (5 mins)
-* Lecture @ General Assembly
