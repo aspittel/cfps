@@ -1,5 +1,5 @@
-Ali is a software engineer at DEV. Before that, she was a lead instructor at General Assembly. She loves Python, JavaScript, and talking about code. She is most interested in the intersection of programming, art, and education.
+Ali is a software engineer at DEV. She loves Python, JavaScript, and talking about code. She is most interested in the intersection of programming, art, and education. She's also a distinguished faculty member at General Assembly, where she teaches people how to code.
 
 When Ali's not working, you can find her watching New England sports, competing on CodeWars, taking runs around Capitol Hill, rock climbing, or participating in DC coding community events.
 
-Ali also blogs at dev.to/aspittel where she learns talks about code and her life surrounding it. Her writing has gotten roughly 600,000 readers in the past year.
+Ali also blogs at dev.to/aspittel where she learns talks about code and her life surrounding it. Her writing has gotten over a million readers in the past year.
