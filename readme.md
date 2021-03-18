@@ -6,6 +6,10 @@ These are the talks I'm currently giving as of 2020.
 
 - [AWS Amplify Admin UI](admin-ui.md)
 
+## Workshops
+
+- [Backend Development for Frontend Engineers](backend-on-aws-for-frontend-devs.md)
+
 ## Keynotes
 
 - [Those Who Can do Should Also Teach](those-who-can-do-should-also-teach.md)
