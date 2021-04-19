@@ -12,6 +12,7 @@ These are the talks I'm currently giving as of 2020.
 
 ## Keynotes
 
+- Learning through Failure
 - [Those Who Can do Should Also Teach](those-who-can-do-should-also-teach.md)
 - [Yes, You Should Write that Blog Post](yes-you-should-write-that-blog-post.md)
 
