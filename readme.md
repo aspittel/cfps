@@ -1,6 +1,6 @@
 # CFP Directory!
 
-These are the talks I'm currently giving as of 2020. 
+These are the talks I'm currently giving as of 2021. 
 
 ## Talks
 
