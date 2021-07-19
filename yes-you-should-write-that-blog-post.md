@@ -24,6 +24,3 @@ This talk will start by discussing why programmers should start blogging. Then, 
 * An outline of a blog post.
 * A cheatsheet on all of the information covered in the talk.
 
-## Why I'm Giving this Talk
-
-I started writing technical blog posts last year, and it was hugely influential on my career. I got over 566k reads of my posts, I learned a lot, and I met a lot of awesome people. I even changed jobs because of it! I want to help other people start blogging and get better at it.
