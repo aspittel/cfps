@@ -21,6 +21,4 @@ This talk will start by discussing why programmers should start blogging. Then, 
 
 * A list of possible blog post topics.
 * A completed worksheet about your target audience and how to reach it.
-* An outline of a blog post.
-* A cheatsheet on all of the information covered in the talk.
 
