@@ -1,8 +1,8 @@
-# Create an Application Backend in Clicks with the Amplify Admin UI
+# Create an Application Backend in Clicks with the Amplify Studio
 
 ## Abstract
 
-There's a lot that goes into building a modern application: the frontend for users, data persistence, user authentication and authorization, business logic, cloud deployment, and much more. The AWS Amplify Admin UI allows users to create and deploy an offline-ready application backend in clicks and then extend it with code, lowering the complexity of fullstack development for frontend and mobile developers. We'll build a fullstack application backed by multiple AWS services including Cognito, Appsync, and S3 in minutes.
+There's a lot that goes into building a modern application: the frontend for users, data persistence, user authentication and authorization, business logic, cloud deployment, and much more. AWS Amplify Studio allows users to create and deploy an offline-ready application backend in clicks and then extend it with code, lowering the complexity of fullstack development for frontend and mobile developers. We'll build a fullstack application backed by multiple AWS services including Cognito, Appsync, and S3 in minutes.
 
 ## Roadmap
 
